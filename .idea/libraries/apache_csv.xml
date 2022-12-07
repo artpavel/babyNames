@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="apache-csv">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../AStart/apache-csv.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../AStart/courserajava.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../AStart/apache-csv.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../AStart/courserajava.jar!/" />
+    </SOURCES>
+  </library>
+</component>
